@@ -7,8 +7,8 @@
 5.	Value- refers to our ability to turn our data into value. It is important that businesses make a case for any attempt to collect and leverage big data. It is easy to fall into the buzz trap and embark on big data initiatives without a clear understanding of the business value it will bring.
 
 2. Possible Solutions to handle Big Data
- Scale Up • Increase the configuration of a single system, like disk capacity, RAM, data transfer speed, etc. • Complex, costly, and a time consuming process 
- Scale Out • Use multiple commodity (economical) machines and distribute the load of storage/processing among them • Economical and quick to implement as it focuses on distribution of load • Instead of having a single system with 10 TB of storage and 80 GB of RAM, use 40 machines with 256 GB of storage and 2 GB of RAM
+ 1.Scale Up • Increase the configuration of a single system, like disk capacity, RAM, data transfer speed, etc. • Complex, costly, and a time consuming process 
+2.Scale Out • Use multiple commodity (economical) machines and distribute the load of storage/processing among them • Economical and quick to implement as it focuses on distribution of load • Instead of having a single system with 10 TB of storage and 80 GB of RAM, use 40 machines with 256 GB of storage and 2 GB of RAM
 
 3.Differences between scaling-up and scaling-out
 Scale-up is taking an existing storage system and adding capacity to meet increased capacity demands. Scale-up can solve a capacity problem without adding infrastructure elements such as network connectivity. However, it does require additional space, power, and cooling. Scaling up does not add controller capabilities to handle additional host activities. That means it doesn’t add costs for extra control functions either.So the costs have not scaled at the same rate for the initial storage system plus storage devices – only additional devices have been added.
